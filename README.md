@@ -1,2 +1,1 @@
-# window xp
-github
+# window linux
